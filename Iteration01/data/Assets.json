@@ -1,0 +1,182 @@
+[
+  {
+    "Code": "AGTSAV",
+    "Letter": "D",
+    "Label": "Savings Account",
+    "APR": 0.25
+  },
+  {
+    "Code": "BX001-23",
+    "Letter": "D",
+    "Label": "Money Market Savings",
+    "APR": 1.05
+  },
+  {
+    "Code": "CD99312",
+    "Letter": "D",
+    "Label": "5-year CD",
+    "APR": 4.35
+  },
+  {
+    "Code": "SAVE01",
+    "Letter": "D",
+    "Label": "Online Savings A+",
+    "APR": 1.9
+  },
+  {
+    "Code": "CD1Y3X",
+    "Letter": "D",
+    "Label": "1-year Rollover CD",
+    "APR": 2.75
+  },
+  {
+    "Code": "RIRA01",
+    "Letter": "D",
+    "Label": "Roth IRA",
+    "APR": 3.4
+  },
+  {
+    "Code": "GOOG001",
+    "Letter": "S",
+    "Label": "Google Inc.",
+    "APR": 0.0,
+    "Base Rate of Return": 5.6,
+    "Beta Measure": 1.15,
+    "Stock Symbol": "GOOG",
+    "Total": 814.708
+  },
+  {
+    "Code": "DIAGEO12",
+    "Letter": "S",
+    "Label": "Diageo PLC",
+    "APR": 12.0,
+    "Base Rate of Return": 3.2,
+    "Beta Measure": 1.04,
+    "Stock Symbol": "DEO",
+    "Total": 122.75
+  },
+  {
+    "Code": "123APP",
+    "Letter": "S",
+    "Label": "Apple",
+    "APR": 24.5,
+    "Base Rate of Return": 4.3,
+    "Beta Measure": 1.25,
+    "Stock Symbol": "AAPL",
+    "Total": 429.8
+  },
+  {
+    "Code": "321CC",
+    "Letter": "S",
+    "Label": "Coca-Cola",
+    "APR": 5.45,
+    "Base Rate of Return": 3.1,
+    "Beta Measure": 0.68,
+    "Stock Symbol": "KO",
+    "Total": 41.08
+  },
+  {
+    "Code": "No1BURR",
+    "Letter": "S",
+    "Label": "Chipotle Mexican Grill",
+    "APR": 45.57,
+    "Base Rate of Return": 3.19,
+    "Beta Measure": 0.94,
+    "Stock Symbol": "CMG",
+    "Total": 341.91
+  },
+  {
+    "Code": "B0oWM",
+    "Letter": "S",
+    "Label": "Costco",
+    "APR": 10.0,
+    "Base Rate of Return": 2.25,
+    "Beta Measure": 0.82,
+    "Stock Symbol": "COST",
+    "Total": 106.13
+  },
+  {
+    "Code": "N0TPIX",
+    "Letter": "S",
+    "Label": "3D Systems",
+    "APR": 0.0,
+    "Base Rate of Return": 1.25,
+    "Beta Measure": 1.28,
+    "Stock Symbol": "DDD",
+    "Total": 35.4
+  },
+  {
+    "Code": "wOOWoo1S",
+    "Letter": "S",
+    "Label": "Canadian National Railway",
+    "APR": 2.75,
+    "Base Rate of Return": 4.6,
+    "Beta Measure": 0.79,
+    "Stock Symbol": "CNI",
+    "Total": 97.75
+  },
+  {
+    "Code": "BERK-B",
+    "Letter": "S",
+    "Label": "Berkshire Hathaway",
+    "APR": 0.0,
+    "Base Rate of Return": 7.2,
+    "Beta Measure": 0.29,
+    "Stock Symbol": "BRK-B",
+    "Total": 107.04
+  },
+  {
+    "Code": "RENT445",
+    "Letter": "P",
+    "Label": "Rental Property",
+    "APR": 2400.0,
+    "Base Rate of Return": 0.25,
+    "Omega Measure": 0.15,
+    "Total": 120000.0
+  },
+  {
+    "Code": "CMPROP0121",
+    "Letter": "P",
+    "Label": "Commercial Property-Red Oaks Mall",
+    "APR": 14240.0,
+    "Base Rate of Return": 5.35,
+    "Omega Measure": 0.25,
+    "Total": 1.0456E7
+  },
+  {
+    "Code": "FOOD12",
+    "Letter": "P",
+    "Label": "Cluckin\u0027s restaurant chain",
+    "APR": 35000.0,
+    "Base Rate of Return": 3.0,
+    "Omega Measure": 0.32,
+    "Total": 1212500.0
+  },
+  {
+    "Code": "REALStr12",
+    "Letter": "P",
+    "Label": "Fred\u0027s Fabulous Hardware Store",
+    "APR": 1232.0,
+    "Base Rate of Return": 1.23,
+    "Omega Measure": 0.13,
+    "Total": 54300.0
+  },
+  {
+    "Code": "IND321",
+    "Letter": "P",
+    "Label": "Industrial Widget Manufacturers Inc.",
+    "APR": 10500.0,
+    "Base Rate of Return": 2.0,
+    "Omega Measure": -0.15,
+    "Total": 4213333.0
+  },
+  {
+    "Code": "RSTOR322",
+    "Letter": "P",
+    "Label": "7\" Vinyl Records",
+    "APR": 2453.21,
+    "Base Rate of Return": 2.1,
+    "Omega Measure": 0.54,
+    "Total": 13500.0
+  }
+]

@@ -1,0 +1,317 @@
+[
+  {
+    "Code": "944c",
+    "First Name": " Starlin",
+    "Last Name": "Castro",
+    "Address": {
+      "street": "1060 West Addison Street",
+      "city": "Chicago",
+      "state": "IL",
+      "country": "USA",
+      "zip code": "60613"
+    },
+    "Email": [
+      "scastro@cubs.com",
+      "starlin_castro13@gmail.com"
+    ]
+  },
+  {
+    "Code": "306a",
+    "First Name": " Brock",
+    "Last Name": "Sampson",
+    "Address": {
+      "street": "123 N 1st Street",
+      "city": "Omaha",
+      "state": "NE",
+      "country": "USA",
+      "zip code": "68116"
+    },
+    "Email": [
+      "brock_f_sampson@gmail.com",
+      "bsampson@venture.com"
+    ]
+  },
+  {
+    "Code": "2342",
+    "First Name": " Miles",
+    "Last Name": "O\u0027Brien",
+    "Address": {
+      "street": "123 Friendly Street",
+      "city": "Ottawa",
+      "state": "ON",
+      "country": "Canada",
+      "zip code": "K1A 0G9"
+    },
+    "Email": [
+      " "
+    ]
+  },
+  {
+    "Code": "aef1",
+    "SEC Identifier": "sec001",
+    "Type": "E",
+    "First Name": " Gordon",
+    "Last Name": "Gekko",
+    "Address": {
+      "street": "1 Wall Street",
+      "city": "New York",
+      "state": "NY",
+      "country": "USA",
+      "zip code": "10005-0012"
+    },
+    "Email": [
+      " "
+    ]
+  },
+  {
+    "Code": "321f",
+    "SEC Identifier": "sec991",
+    "Type": "J",
+    "First Name": " Bud",
+    "Last Name": "Fox",
+    "Address": {
+      "street": "321 Bronx Street",
+      "city": "New York",
+      "state": "NY",
+      "country": "USA",
+      "zip code": "10004"
+    },
+    "Email": [
+      "bfox@gmail.com",
+      "csheen@crazy.net"
+    ]
+  },
+  {
+    "Code": "ma12",
+    "First Name": " Dale",
+    "Last Name": "Sveum",
+    "Address": {
+      "street": "1060 West Addison Street",
+      "city": "Chicago",
+      "state": "IL",
+      "country": "USA",
+      "zip code": "60613"
+    },
+    "Email": [
+      "sveum@cubs.com"
+    ]
+  },
+  {
+    "Code": "321nd",
+    "First Name": " William",
+    "Last Name": "Hartnell",
+    "Address": {
+      "street": "1060 West Addison Street",
+      "city": "Chicago",
+      "state": "IL",
+      "country": "USA",
+      "zip code": "60613"
+    },
+    "Email": [
+      "whartnell@doctors.com",
+      "dr@who.com"
+    ]
+  },
+  {
+    "Code": "nf32a",
+    "First Name": " Patrick",
+    "Last Name": "Troughton",
+    "Address": {
+      "street": "1060 West Addison Street",
+      "city": "Chicago",
+      "state": "IL",
+      "country": "USA",
+      "zip code": "60613"
+    },
+    "Email": [
+      "ptroug@cse.unl.edu",
+      "ptrou32@unl.edu"
+    ]
+  },
+  {
+    "Code": "321na",
+    "SEC Identifier": "sec125",
+    "Type": "E",
+    "First Name": " Jon",
+    "Last Name": "Pertwee",
+    "Address": {
+      "street": "301 Front St W",
+      "city": " Toronto",
+      "state": " ON",
+      "country": " Canada",
+      "zip code": " M5V 2T6"
+    },
+    "Email": [
+      "jpet@whofan.com"
+    ]
+  },
+  {
+    "Code": "231",
+    "SEC Identifier": "sec221",
+    "Type": "E",
+    "First Name": "Tom",
+    "Last Name": "Baker",
+    "Address": {
+      "street": "1 Blue Jays Way",
+      "city": " Toronto",
+      "state": " ON",
+      "country": " Canada",
+      "zip code": " M5V 1J1"
+    },
+    "Email": [
+      "famousdoc@who.com",
+      "tbaker@cse.unl.edu",
+      "mostfamous@whovian.com",
+      "thedoctor@bbc.com"
+    ]
+  },
+  {
+    "Code": "6doc",
+    "SEC Identifier": "sec982",
+    "Type": "J",
+    "First Name": " Richard",
+    "Last Name": "Hurndall",
+    "Address": {
+      "street": "Campos El290",
+      "city": "Mexico City",
+      "state": " FD",
+      "country": " Mexico",
+      "zip code": ""
+    },
+    "Email": [
+      "rhurndall@cse.unl.edu",
+      "richard@unl.edu"
+    ]
+  },
+  {
+    "Code": "321dr",
+    "SEC Identifier": "sec543",
+    "Type": "J",
+    "First Name": " C.",
+    "Last Name": "Baker",
+    "Address": {
+      "street": "Avery Hall",
+      "city": "Lincoln",
+      "state": "NE",
+      "country": "USA",
+      "zip code": "68503"
+    },
+    "Email": [
+      "dr@baker.com"
+    ]
+  },
+  {
+    "Code": "1svndr",
+    "First Name": "Sylvester",
+    "Last Name": "McCoy",
+    "Address": {
+      "street": "126-01 Roosevelt Ave",
+      "city": " Flushing",
+      "state": " NY",
+      "country": "USA",
+      "zip code": "11368"
+    },
+    "Email": [
+      "slyguy@hotmail.com",
+      "mccoy@whofan.com"
+    ]
+  },
+  {
+    "Code": "123lst",
+    "SEC Identifier": "sec31x",
+    "Type": "E",
+    "First Name": " Paul",
+    "Last Name": "McGann",
+    "Address": {
+      "street": "1 MetLife Stadium Dr",
+      "city": " East Rutherford",
+      "state": " NJ",
+      "country": "USA",
+      "zip code": "07073"
+    },
+    "Email": [
+      "pmcgann@mlb.com",
+      "foo@bar.com",
+      "pmc@unl.edu"
+    ]
+  },
+  {
+    "Code": "nwdoc1",
+    "SEC Identifier": "sec953",
+    "Type": "J",
+    "First Name": " Chris",
+    "Last Name": "Eccleston",
+    "Address": {
+      "street": "1 E 161st St",
+      "city": " Bronx",
+      "state": " NY",
+      "country": "USA",
+      "zip code": "10451"
+    },
+    "Email": [
+      "newguy@whovian.com"
+    ]
+  },
+  {
+    "Code": "2ndbestd",
+    "First Name": " David",
+    "Last Name": "Tennant",
+    "Address": {
+      "street": "700 E Grand Ave",
+      "city": " Chicago",
+      "state": " IL",
+      "country": "USA",
+      "zip code": " 60611"
+    },
+    "Email": [
+      "actor@shakespeare.com",
+      "tdavid@unl.edu"
+    ]
+  },
+  {
+    "Code": "wrddoc",
+    "First Name": " Matt",
+    "Last Name": "Smith",
+    "Address": {
+      "street": "333 W 35th St",
+      "city": " Chicago",
+      "state": " IL",
+      "country": "USA",
+      "zip code": "60616"
+    },
+    "Email": [
+      "msmith@who.com",
+      "thedoc@cse.unl.edu"
+    ]
+  },
+  {
+    "Code": "bbchar",
+    "First Name": " Kaylee",
+    "Last Name": "Ehrmantraut",
+    "Address": {
+      "street": "800 West 7th Street",
+      "city": " Albuquerque",
+      "state": " NM",
+      "country": "USA",
+      "zip code": " 87105"
+    },
+    "Email": [
+      " "
+    ]
+  },
+  {
+    "Code": "doc05",
+    "First Name": " Peter",
+    "Last Name": "Davison",
+    "Address": {
+      "street": "123 Cabo San Lucas",
+      "city": " Los Cabos",
+      "state": " BCS",
+      "country": " Mexico",
+      "zip code": " "
+    },
+    "Email": [
+      " "
+    ]
+  }
+]
